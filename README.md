@@ -21,6 +21,12 @@ I am a Data Analyst passionate about solving business problems through data. I h
 * Identified that **Cables & Accessories** have the highest discount rates (>50%).
 * Used complex queries to analyze customer sentiment, identifying key positive terms like "fast charging" and negative feedback patterns.
 
+### 🍔 [Swiggy SQL Data Analysis (SQL)](https://github.com/Manishh-kumar95/Swiggy-SQL-Data-Analysis--MySql)
+**Tools:** SQL (MySQL), Complex Joins, Aggregation
+* Solved **13 business queries** across 4 related tables (Customers, Orders, Restaurants, Delivery Partners).
+* Used **Self Joins** to perform advanced logic, identifying customers with overlapping order patterns in the same city.
+* Analyzed **Delivery Partner Efficiency** to identify top performers based on unique customer reach and delivery volume.
+
 ### 🏨 [ITC Hotels Revenue Dashboard (Power BI)](https://github.com/Manishh-kumar95/ITC-Hotels-Revenue-Intelligence-Analysis--PowerBI)
 **Tools:** Power BI, DAX, Power Query
 * Built a dynamic dashboard to track **RevPAR, Occupancy %, and ADR**.
