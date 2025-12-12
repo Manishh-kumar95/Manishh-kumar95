@@ -27,6 +27,12 @@ I am a Data Analyst passionate about solving business problems through data. I h
 * Used **Self Joins** to perform advanced logic, identifying customers with overlapping order patterns in the same city.
 * Analyzed **Delivery Partner Efficiency** to identify top performers based on unique customer reach and delivery volume.
 
+### 🚲 [Jenson USA Sales Analysis (SQL)](https://github.com/Manishh-kumar95/Jenson-USA-SQL-Analysis--MySql)
+**Tools:** MySQL, Window Functions, CTEs
+* Solved **12 complex scenarios** including Cumulative Sales and Median Price calculations.
+* Used **Window Functions** (`RANK`, `ROW_NUMBER`) to find top-selling products per category.
+* Implemented **CTEs** to compare individual staff performance against company averages.
+
 ### 🏨 [ITC Hotels Revenue Dashboard (Power BI)](https://github.com/Manishh-kumar95/ITC-Hotels-Revenue-Intelligence-Analysis--PowerBI)
 **Tools:** Power BI, DAX, Power Query
 * Built a dynamic dashboard to track **RevPAR, Occupancy %, and ADR**.
