@@ -10,6 +10,7 @@ I am a Data Analyst passionate about solving business problems through data. I h
 * **Visualization:** Power BI, Tableau
 * **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Concepts:** ETL, Data Cleaning, Statistics, Data Modeling (Star Schema)
+* **Machine Learning:** Scikit-learn
 
 ---
 
