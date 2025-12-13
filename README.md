@@ -1,5 +1,5 @@
 # Hi there, I'm Manish Kumar! 👋
-### 🚀 Aspiring Data Analyst | SQL & Power BI Specialist
+### 🚀 Aspiring Data Analyst | SQL, Power BI & Python Specialist
 
 I am a Data Analyst passionate about solving business problems through data. I have completed an intensive 16-week mentorship at **WsCube Tech**, mastering the full data stack from Excel to Machine Learning.
 
